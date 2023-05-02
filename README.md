@@ -1,2 +1,31 @@
 # Literacy-Rate-in-Tamilnadu
-This dashboard empowers mission driven organizations to harness the power of data visualization for social change. The data set talks about the literacy rates in Tamilnadu. It is distributed according to the cities and their ranks. It contains the population, as per the gender. This dashboard gives us the insight about the female population when compared to the total, and it addresses the question of where the state is on literacy wise. It shows us the status of each city and it also shows the scholarship/Beneficiaries each state is getting. The data has different institutions available and the number of teachers available. General Requirements The dashboard should look like an article predicting the basic issues. Use appropriate tiled and floating sheets wherever possible.
+This dashboard empowers mission driven organizations to harness the power of data visualization for social change. Women are tracked away from science and mathematics throughout their education, limiting their training and options to go into these fields as adults. The data set contains the data of women graduated by years, employed persons, Stem Jobs by Education add Salary comparison. This dashboard addresses some major gaps between Men and Women in STEM (Science, Technology, Engineering & Mathematics) fields.
+
+General Requirements
+The dashboard should look like an article predicting the basic issues.
+
+Title: Women in STEM Fields
+
+-A pie graph of women in
+Biological Scientists
+Chemists & Materials Scientists
+Computer & Mathematical Occupations
+Engineers & Architects
+
+-The trend of percent women graduating in Computer science and Engineering from 2000-2015
+
+Should be in text after the graph. Frame a sentence.
+What percent of women are graduating from stem majors (Computer science and Engineering) by 2015
+
+-A bar graph of what percent of women are in stem jobs by education in which field.
+
+Should be in text after the graph. Frame a sentence.
+What percent of women are in health-related jobs with their master’s education and Professional/Doctoral Degree?
+
+-Show a cross tab of men and women working in the related fields of their education.
+
+Should be in text after the graph. Frame a sentence.
+What percent of women are working in computers who majored in Computers?
+What percent of women are working in Engineering jobs who majored in Engineering?
+
+-A comparison graph of All/Men/Women Salaries by ethnicity.
